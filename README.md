@@ -30,7 +30,7 @@ A modular Python application for automating domain management tasks using the Go
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/rohitmenonhart-xhunter/godaddy-domain-manager.git
+   git clone https://github.com/rohitmenonhart-xhunter/godaddy-domain-manager-kit.git
    cd godaddy-domain-manager
    ```
 
